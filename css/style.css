@@ -1,0 +1,27 @@
+header>img{
+  marign-right: 2px;
+  float: left;
+}
+nav{
+  text-align: center;
+}
+ul{
+ height: 80px;
+ background-color: lightslategray;
+ margin-top: -92px;
+}
+
+li{
+  display: inline-block;
+  padding: 30px;
+  font-family: sans-serif;
+}
+
+img{
+  margin: 15px;
+}
+
+footer{
+  height: 100px;
+  background-color:lightslategray;
+}
