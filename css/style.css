@@ -21,6 +21,21 @@ img{
   margin: 15px;
 }
 
+article{
+  display: inline-block;
+  width: 400px;
+  margin-left: 520px;
+  margin-top: -700px;
+  height: 350px;
+  overflow: scroll;
+
+}
+
+h1{
+  margin: 10px;
+  font-size: 30px;
+}
+
 footer{
   height: 100px;
   background-color:lightslategray;
