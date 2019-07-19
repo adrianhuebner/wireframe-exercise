@@ -1,0 +1,42 @@
+header>img{
+  marign-right: 2px;
+  float: left;
+}
+nav{
+  text-align: center;
+}
+ul{
+ height: 80px;
+ background-color: lightslategray;
+ margin-top: -92px;
+}
+
+li{
+  display: inline-block;
+  padding: 30px;
+  font-family: sans-serif;
+}
+
+img{
+  margin: 15px;
+}
+
+article{
+  display: inline-block;
+  width: 400px;
+  margin-left: 520px;
+  margin-top: -700px;
+  height: 350px;
+  overflow: scroll;
+
+}
+
+h1{
+  margin: 10px;
+  font-size: 30px;
+}
+
+footer{
+  height: 100px;
+  background-color:lightslategray;
+}
