@@ -1,9 +1,9 @@
-header>img{
-  marign-right: 2px;
-  float: left;
+img[title="logo"]{
+  margin-right: 765px;
 }
 nav{
   text-align: center;
+  width: 100%;
 }
 ul{
  height: 80px;
@@ -17,8 +17,16 @@ li{
   font-family: sans-serif;
 }
 
+body{
+  text-align: center;
+}
+
 img{
   margin: 15px;
+}
+
+img[title="FeaturedSectionBanner"]{
+  margin-right: 500px;
 }
 
 article{
@@ -39,4 +47,17 @@ h1{
 footer{
   height: 100px;
   background-color:lightslategray;
+  width: 100%;
+}
+
+button{
+  padding: 10px;
+  width: 110px;
+}
+
+/* Source Peter Carmichael, slack */
+
+button :hover {
+  transition: [transition-property] [transition-duration] [transition-timing-function] [transition-delay];
+  background-color: slategrey;
 }
